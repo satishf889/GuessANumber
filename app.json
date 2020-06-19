@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-demo-1",
-    "slug": "rn-demo-1",
+    "name": "Guess A Number",
+    "slug": "Guess-A-Number",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
