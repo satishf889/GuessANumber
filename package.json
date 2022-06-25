@@ -16,7 +16,7 @@
     "logkitty": ">=0.7.1",
     "mem": ">=4.0.0",
     "yargs-parser": ">=13.1.2",
-    "node-fetch": ">=2.6.1"
+    "node-fetch": ">=2.6.7"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
